@@ -1,0 +1,1 @@
+nuclei >= 6 and ram >= 4 and storage_capacity >= 128 and camera_quality >=12 and storage_capacity >=128 and price >=4000 and camera_quality  >= 12 and sim LIKE '%Dual SIM%' and retea >= 5
